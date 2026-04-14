@@ -11,6 +11,62 @@
       "filterable": 1
     },
     {
+      "key": "ffzyapi",
+      "name": "🌟 非凡",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "yzzyapi",
+      "name": "🌟 优质",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "suoniapi",
+      "name": "🌟 索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "lziapi",
+      "name": "🌟 量子",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "hhzyapi",
+      "name": "🌟 豪华",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "fhapi9",
+      "name": "🔞 番号",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "lbapi9",
+      "name": "🔞 乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "Cg51",
       "name": "🔍 51吃瓜 | 图密√",
       "type": 3,
