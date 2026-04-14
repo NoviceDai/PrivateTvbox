@@ -1,0 +1,90 @@
+{
+  "spider": "./jar/spider.jar;md5;57c11a47cbedc6ff3cd1eea22dad3a86",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "drpy_js_18AVDirect1",
+      "name": "18AV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/18AVDirect.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "drpy_js_CableAVSearchFix2",
+      "name": "CableAV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/CableAVSearchFix2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
+      "key": "drpy_js_JableSearchFix7",
+      "name": "Jable",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/JableSearchFix7.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "drpy_js_Missav",
+      "name": "Missav",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/Missav.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    },
+    {
+      "key": "drpy_js_NetflavPlayFix6",
+      "name": "Netflav",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/NetflavPlayFix6.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "rules": []
+}

@@ -1,0 +1,34 @@
+{
+  "spider": "./jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "J91",
+      "name": "🔍 91 | 珍惜",
+      "type": 3,
+      "api": "csp_J91",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cg51",
+      "name": "🔍 51吃瓜 | 图密√",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "HiPianZhiBo",
+      "name": "🔍 嗨片直播 | 视频",
+      "type": 3,
+      "api": "csp_HiPianZhiBo",
+      "searchable": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "rules": []
+}

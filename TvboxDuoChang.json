@@ -1,0 +1,66 @@
+{
+    "urls": [
+        {
+            "name": "Dx高清",
+            "url": "http://192.168.8.188/tvbox/Tvboxconfig4k.json"
+        },
+        {
+            "name": "Dx点播",
+            "url": "http://192.168.8.188/tvbox/Tvboxconfigdaixiao.json"
+        },
+        {
+            "name": "Dx花园",
+            "url": "http://192.168.8.188/tvbox/adult/fun.json"
+        },
+        {
+            "name": "Local Fongmi",
+            "url": "http://192.168.8.188/tvbox/zx/FongMi.json"
+        },
+        {
+            "name": "Local PG",
+            "url": "http://192.168.8.188/tvbox/pg/jsm.json"
+        },
+        {
+            "name": "Test_local",
+            "url": "http://192.168.8.188/tvbox/test.json"
+        },       
+        {
+            "name": "IPTV_ALL_IN_ONE",
+            "url": "http://192.168.8.188/tvbox/Tvbox_IPTV.json"
+        },
+        {
+            "url": "http://www.xn--sss604efuw.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://肥猫.com",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "OK佬"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
+            "name": "蜂蜜"
+        },
+        {
+            "url": "http://tv.999888987.xyz",
+            "name": "王二小"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘备"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬"
+        },
+        {
+            "url": "https://tvshare.cn/api/v1/subscribe/IzQzei/sub",
+            "name": "源动力"
+        }    
+
+
+    ]
+}
