@@ -1,3 +1,33 @@
 {
-    "lives": []
+    "lives": [
+         {
+            "name": "MiguIPTV",
+            "type": 0,
+            "url": "https://gh.daix.cn.eu.org/https://github.com/ioptu/migu_video/blob/main/migu.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },  
+        {
+            "name": "DaiXiao_CMCC",
+            "type": 0,
+            "url": "http://192.168.8.188/tvbox/Daixiao_CMCC.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },  
+        {
+            "name": "Github-Daixiao",
+            "type": 0,
+            "url": "https://gh.daix.cn.eu.org/https://github.com",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+
+        
+    ]
 }
