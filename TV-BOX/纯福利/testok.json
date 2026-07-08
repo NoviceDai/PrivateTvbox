@@ -4,15 +4,26 @@
     "wallpaper": "https://picsum.photos/1080/",
     "sites": [
         {
-            "key": "豆瓣",
-            "name": "🏰 豆瓣┃首页",
+            "key": "暴风",
+            "name": "暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod?",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [
+                "福利"
+            ]
+        },
+        {
+            "key": "liveshow",
+            "name": "SexLiveShow",
             "type": 3,
-            "api": "csp_Douban",
-            "jar": "./jar/pg.jar",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./py/py-liveshow.py",
+            "order_num": 5,
+            "ext": ""
         },
         {
             "key": "✨水果派✨",
