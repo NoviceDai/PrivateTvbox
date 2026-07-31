@@ -26,6 +26,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
 http://117.135.56.196:6060/cms001/ch00000090990000001187/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视高清",CCTV5+
+http://120.76.248.139/live/bfgd/4200000246.m3u8
 http://111.229.21.58:1234/641886773
 http://116.236.204.18:1234/641886773
 http://36.158.75.56:8088/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
