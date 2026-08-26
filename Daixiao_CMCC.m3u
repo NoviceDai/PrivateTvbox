@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" 
+#EXTM3U x-tvg-url="https://gh.daix.cn.eu.org/https://github.com/mytv-android/myMIGU/blob/main/epg.xml.gz" 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视高清",CCTV1
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
@@ -194,9 +194,9 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
 https://php.doube.eu.org/fengshows.php?pid=1
+http://rihou.cc:555/tv/[Pd]凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://rihou.cc:555/tv/[PL]凤凰资讯
-http://rihou.cc:555/tv/[Pd]凤凰资讯
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港频道",凤凰香港
 https://php.doube.eu.org/fengshows.php?pid=3
