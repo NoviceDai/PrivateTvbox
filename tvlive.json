@@ -1,5 +1,14 @@
 {
     "lives": [
+        {
+            "name": "Github-Meow",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/iptv_meow.m3u"
+        },  
+        {
+            "name": "Github-Daixiao",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/Daixiao_CMCC.m3u"
+        },  
+
          {
             "name": "MiguIPTV",
             "type": 0,
