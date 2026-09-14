@@ -1,0 +1,263 @@
+站点              类型                探测地址                                                        判定
+--------------------------------------------------------------------------------------------------------------
+森林资源           A:http-api       https://slapibf.com/api.php/provide/vod?ac=detail&t=1&pg=1 FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+暴风             A:http-api       https://bfzyapi.com/api.php/provide/vod?&ac=detail&t=1&pg= FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+SexLiveShow    C:py-spider      EXISTS                                                     CHECK
+✨水果派✨          B:jar-spider:分类url https://sjsfsjsf.shuiguopai5.xyz/vodtype/                  OK:HTTP200(非JSON)
+✨SAOO✨         B:jar-spider:主页  https://r-daqtu.saooo.cc/                                  FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨SAOO✨         B:jar-spider:搜索url https://r-daqtu.saooo.cc/index.php/vod/search/page/        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨SAOO✨         B:jar-spider:分类url https://r-daqtu.saooo.cc/index.php/vod/type/id/            FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨果冻✨           B:jar-spider:主页url https://zvz.gdpjb8.work/cn/home/web/                       OK:HTTP200(非JSON)
+✨果冻✨           B:jar-spider:搜索url https://zvz.gdpjb8.work/cn/home/web/index.php/vod/search/p OK:HTTP200(非JSON)
+✨果冻✨           B:jar-spider:分类url https://zvz.gdpjb8.work/cn/home/web/index.php/vod/type/id/ OK:HTTP200(非JSON)
+✨Aries|推特APP✨  C:py-spider      EXISTS                                                     CHECK
+✨Aries|四区✨     B:jar-spider:站名  https://618137.xyz/                                        OK:HTTP200(非JSON)
+✨Aries|四区✨     B:jar-spider:主页url https://618137.xyz/                                        OK:HTTP200(非JSON)
+✨Aries|四区✨     B:jar-spider:分类url https://618137.xyz/index.php/vod/type/id/                  HTTP500
+✨Aries|三区✨     B:jar-spider:站名  https://6181022.xyz/                                       OK:HTTP200(非JSON)
+✨Aries|三区✨     B:jar-spider:主页url https://6181022.xyz/                                       OK:HTTP200(非JSON)
+✨Aries|三区✨     B:jar-spider:分类url https://6181022.xyz/index.php/vod/type/id/                 HTTP500
+✨Aries|一区✨     B:jar-spider:站名  https://618014.xyz/index.php/                              OK:HTTP200(非JSON)
+✨Aries|一区✨     B:jar-spider:主页url https://618014.xyz/index.php/                              OK:HTTP200(非JSON)
+✨Aries|一区✨     B:jar-spider:分类url https://618014.xyz/index.php/vod/type/id/                  HTTP500
+✨Aries|玫瑰TV✨   B:jar-spider:主页url https://fbj1.meiguitv1.xyz/                                FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨Aries|玫瑰TV✨   B:jar-spider:分类url https://fbj1.meiguitv1.xyz/list.php?id=                    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨Aries|醉奶吧✨    B:jar-spider:站名  https://www.znb3.skin/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|醉奶吧✨    B:jar-spider:主页url https://www.znb3.skin/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|醉奶吧✨    B:jar-spider:分类url https://www.znb3.skin/cn/home/web/index.php/vod/type/id/   OK:HTTP200(非JSON)
+✨Aries|偷拍自拍✨   B:jar-spider:站名  https://www.tpzp7.buzz/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|偷拍自拍✨   B:jar-spider:主页url https://www.tpzp7.buzz/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|偷拍自拍✨   B:jar-spider:分类url https://www.tpzp7.buzz/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+✨Aries|美人吹箫✨   B:jar-spider:站名  https://www.mrcx2.yachts/cn/home/web/                      OK:HTTP200(非JSON)
+✨Aries|美人吹箫✨   B:jar-spider:主页url https://www.mrcx2.yachts/cn/home/web/                      OK:HTTP200(非JSON)
+✨Aries|美人吹箫✨   B:jar-spider:分类url https://www.mrcx2.yachts/cn/home/web/index.php/vod/show/id OK:HTTP200(非JSON)
+✨Aries|55视频✨   B:jar-spider:站名  https://www.55sp3.help/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|55视频✨   B:jar-spider:主页url https://www.55sp3.help/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|55视频✨   B:jar-spider:分类url https://www.55sp3.help/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+✨Aries|18XXX✨  B:jar-spider:站名  https://www.18xxx6.hair/cn/home/web/                       OK:HTTP200(非JSON)
+✨Aries|18XXX✨  B:jar-spider:主页url https://www.18xxx6.hair/cn/home/web/                       OK:HTTP200(非JSON)
+✨Aries|18XXX✨  B:jar-spider:分类url https://www.18xxx6.hair/cn/home/web/index.php/vod/show/id/ OK:HTTP200(非JSON)
+✨Aries|窜天猴✨    B:jar-spider:站名  https://www.cth8.hair/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|窜天猴✨    B:jar-spider:主页url https://www.cth8.hair/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|窜天猴✨    B:jar-spider:分类url https://www.cth8.hair/cn/home/web/index.php/vod/type/id/   OK:HTTP200(非JSON)
+✨Aries|GDD视频✨  B:jar-spider:站名  https://www.gdd5.quest/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|GDD视频✨  B:jar-spider:主页url https://www.gdd5.quest/cn/home/web/                        OK:HTTP200(非JSON)
+✨Aries|GDD视频✨  B:jar-spider:分类url https://www.gdd5.quest/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+✨Aries|桃花浪✨    B:jar-spider:站名  https://www.thl5.life/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|桃花浪✨    B:jar-spider:主页url https://www.thl5.life/cn/home/web/                         OK:HTTP200(非JSON)
+✨Aries|桃花浪✨    B:jar-spider:分类url https://www.thl5.life/cn/home/web/index.php/vod/type/id/   OK:HTTP200(非JSON)
+✨Aries|3Q✨     B:jar-spider:主页url https://qqqys.com                                          FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨Aries|3Q✨     B:jar-spider:分类url https://qqqys.com/vodshow/                                 FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨Aries|3Q✨     B:jar-spider:跳转链接 https://qqqys.com/api.php/internal/search_aggregate?vod_id FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+✨Aries|好色™ Tv.py✨ C:py-spider      EXISTS                                                     CHECK
+✨Aries|百灵鸟在线✨  B:jar-spider:站名  https://eijpkl.blnzx2.motorcycles/cn/home/web              OK:HTTP200(非JSON)
+✨Aries|百灵鸟在线✨  B:jar-spider:主页url https://eijpkl.blnzx2.motorcycles/cn/home/web              OK:HTTP200(非JSON)
+✨Aries|百灵鸟在线✨  B:jar-spider:分类url http://eijpkl.blnzx2.motorcycles/cn/home/web/index.php/vod OK:HTTP200(非JSON)
+✨Aries|樱樱女子✨   B:jar-spider:站名  https://www.yynz8.skin/cn/home/web                         OK:HTTP200(非JSON)
+✨Aries|樱樱女子✨   B:jar-spider:主页url https://www.yynz8.skin/cn/home/web                         OK:HTTP200(非JSON)
+✨Aries|樱樱女子✨   B:jar-spider:分类url https://www.yynz8.skin/cn/home/web/index.php/vod/show/id/  OK:HTTP200(非JSON)
+✨Aries|激动网✨    B:jar-spider:站名  https://www.jdw3.world/cn/home/web                         OK:HTTP200(非JSON)
+✨Aries|激动网✨    B:jar-spider:主页url https://www.jdw3.world/cn/home/web                         OK:HTTP200(非JSON)
+✨Aries|激动网✨    B:jar-spider:分类url https://www.jdw3.world/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+✨Aries|成鸡思汉✨   B:jar-spider:站名  https://www.cjsh6.boats/cn/home/web                        OK:HTTP200(非JSON)
+✨Aries|成鸡思汉✨   B:jar-spider:主页url https://www.cjsh6.boats/cn/home/web                        OK:HTTP200(非JSON)
+✨Aries|成鸡思汉✨   B:jar-spider:分类url https://www.cjsh6.boats/cn/home/web/index.php/vod/type/id/ OK:HTTP200(非JSON)
+采集视频3          A:http-api       https://ikunzyapi.com/api.php/provide/vod?ac=detail&t=1&pg FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+💥丨爱看2k丨微广      A:http-api       https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/?ac= FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+👊【撸到出血為止！-麻豆】👊 B:jar-spider:搜索url http://gcmd.cc/index.php/vod/search/page/                  HTTP502
+👊【撸到出血為止！-麻豆】👊 B:jar-spider:分类url http://gcmd.cc/index.php/vod/show/class/                   HTTP502
+🔞GGJAV         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+lavAPP.py      C:py-spider      EXISTS                                                     CHECK
+Phb.py         C:py-spider      EXISTS                                                     CHECK
+DSYS.py        C:py-spider      EXISTS                                                     CHECK
+51吸瓜动态版.py     C:py-spider      EXISTS                                                     CHECK
+Phb.py         C:py-spider      EXISTS                                                     CHECK
+Xvideos.py     C:py-spider      EXISTS                                                     CHECK
+Xhamster.py    C:py-spider      MISSING:/home/daixiao/Data/MultiMedia/Tvbox/TV-BOX/纯福利/./plugin/adult/Xhamster.py CHECK
+数逼毛            C:py-spider      MISSING:/home/daixiao/Data/MultiMedia/Tvbox/TV-BOX/纯福利/./plugin/adult/4k.py CHECK
+黑料             C:py-spider      EXISTS                                                     CHECK
+九个区.py         C:py-spider      EXISTS                                                     CHECK
+香蕉.py          C:py-spider      EXISTS                                                     CHECK
+小红薯APP.py      C:py-spider      EXISTS                                                     CHECK
+推特APP.py       C:py-spider      MISSING:/home/daixiao/Data/MultiMedia/Tvbox/TV-BOX/纯福利/./plugin/adult/推特APP.py CHECK
+MRJav          A:http-api       https://py.doube.eu.org/spider?site=MrJav&ac=detail&t=1&pg FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+MissAV         A:http-api       https://py.doube.eu.org/spider?site=Miss&ac=detail&t=1&pg= FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+AiDou          A:http-api       https://py.doube.eu.org/spider?site=AiDou&ac=detail&t=1&pg FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞18AV(翻）       B:jar-spider     NO-EXT                                                     CHECK
+BadNews🔞       A:http-api       https://py.doube.eu.org/spider?site=BadNews&ac=detail&t=1& FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞Jable（翻）      B:jar-spider     NO-EXT                                                     CHECK
+松视1            A:http-api       https://www.xrbsp.com/api/xml.php?ac=detail&t=1&pg=1       OK:HTTP200(非JSON)
+松视2            A:http-api       https://www.gdlsp.com/api/xml.php?ac=detail&t=1&pg=1       OK:HTTP200(非JSON)
+松视3            A:http-api       https://api.sexnguon.com/api.php/provide/vod/?ac=detail&t= FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+pornpinoy      B:jar-spider:主页url https://pornpinoy.com/                                     OK:HTTP200(非JSON)
+pornpinoy      B:jar-spider:分类url https://pornpinoy.com/vod/list.html?page=                  OK:HTTP200(非JSON)
+测试             B:jar-spider:分类url https://996624.xyz/                                        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+溏心女优二          B:jar-spider:分类url https://txcy-7oo1.txcy-pu.buzz/index.php/actordetail/      OK:HTTP200(非JSON)
+小姨子            B:jar-spider:分类url https://thchp.top/index.php/vod/type/id/                   FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+痴迷视频           B:jar-spider:分类url https://www.chimi60.cc/index.php/vod/type/id/              FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+领头羊            B:jar-spider:分类url https://t4vebhhjvwbig4vgkgghh3rv85.lingtouyang1.top/index. OK:HTTP200(非JSON)
+夜魅             B:jar-spider:分类url https://ymyh9.cfd/frim/                                    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞Bad.news(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Bad.news搜索AV(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞52av论坛(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞JAVDAYTV(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞18jtv(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞XNXX(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Njavtv(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Njavtv.com(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞MissAV.app    B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞NOWAVTV       B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞91porn_asia   B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Jable④        B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+911爆料网         B:jar-spider:发布地址 https://hljdh.co/,https://bean.hbmkuelb.com/homeway.html   FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+911爆料网         B:jar-spider:主页url https://argue.hbmkuelb.com                                 FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+911爆料网         B:jar-spider:图片  https://v2.api-m.com/api/meinvpic?return=302               FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+熊猫视频           B:jar-spider     NO-EXT                                                     CHECK
+🔞影片库🪜          B:jar-spider:主页url https://you.lugiao12.top/                                  OK:HTTP200(非JSON)
+🔞影片库🪜          B:jar-spider:分类url https://you.lugiao12.top/27wt/index.php/vod/show/by/       OK:HTTP200(非JSON)
+㊙️┃Netflav(墙)  B:jar-spider     NO-EXT                                                     CHECK
+黑炮视频           B:jar-spider:分类url https://heifengjingline.live/index.php/vod/type/id/        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+爱 AV           B:jar-spider:主页url https://xn--ieu270c.mnrj0z53.xyz                           OK:HTTP200(非JSON)
+🔞色播直播          C:py-spider      EXISTS                                                     CHECK
+㊙️PornLuLu     B:jar-spider:主页  https://www.pornlulu.net/                                  FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️PornLuLu     B:jar-spider:分类url https://www.pornlulu.net/cat/                              FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️┃941c        B:jar-spider:主页url https://admin.941cad.cc/bin/?utm_source=                   OK:HTTP200(非JSON)
+㊙️┃941c        B:jar-spider:分类url https://admin.941cad.cc/bin/index.php/vod/type/id/         OK:HTTP200(非JSON)
+㊙️┃941c        B:jar-spider:搜索url https://admin.941cad.cc/bin/index.php/vod/search/page/     OK:HTTP200(非JSON)
+㊙️18j          B:jar-spider:主页url https://18jtv.com/                                         FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️18j          B:jar-spider:分类url https://18jtv.com/t/                                       FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️83视频         B:jar-spider:主页url https://rep.83sp3.work/cn/home/web/                        OK:HTTP200(非JSON)
+㊙️83视频         B:jar-spider:分类url https://rep.83sp3.work/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+㊙️免费影院         B:jar-spider:主页url https://www.hangtong168.com/                               FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️魔法少女         B:jar-spider:主页url https://noz.dbtav4.work/dbtav/                             OK:HTTP200(非JSON)
+㊙️魔法少女         B:jar-spider:分类url https://noz.dbtav4.work/vodtype/                           OK:HTTP200(非JSON)
+㊙️魔法少女         B:jar-spider:搜索url https://noz.dbtav4.work/s/                                 OK:HTTP200(非JSON)
+㊙️奶妃           B:jar-spider:主页url https://s.naifeix.xyz                                      OK:HTTP200(非JSON)
+㊙️七色谷          B:jar-spider:搜索url https://q9r0s1t2.qisegu39.buzz/vodsearch/                  OK:HTTP200(非JSON)
+㊙️七色谷          B:jar-spider:分类url https://q9r0s1t2.qisegu39.buzz/vodtype/                    OK:HTTP200(非JSON)
+㊙️桃花           B:jar-spider:主页url https://eul.thgq4.world/cn/home/web/                       OK:HTTP200(非JSON)
+㊙️桃花           B:jar-spider:分类url https://eul.thgq4.world/cn/home/web/index.php/vod/type/id/ OK:HTTP200(非JSON)
+㊙️淘精岁月         B:jar-spider:主页url https://rqr.tjsy2.help/cn/home/web/                        OK:HTTP200(非JSON)
+㊙️淘精岁月         B:jar-spider:分类url https://rqr.tjsy2.help/cn/home/web/index.php/vod/show/id/  OK:HTTP200(非JSON)
+㊙️醉奶吧          B:jar-spider:主页url https://cqn.znb3.skin/cn/home/web/                         OK:HTTP200(非JSON)
+㊙️醉奶吧          B:jar-spider:分类url https://cqn.znb3.skin/cn/home/web/index.php/vod/type/id/   OK:HTTP200(非JSON)
+㊙️超级精品         B:jar-spider:主页url https://gxxxx13.xyz/123                                    OK:HTTP200(非JSON)
+㊙️公子别走         B:jar-spider:主页url https://tce.gzbz7.wiki/cn/home/web/                        OK:HTTP200(非JSON)
+㊙️公子别走         B:jar-spider:分类url https://tce.gzbz7.wiki/cn/home/web/index.php/vod/type/id/  OK:HTTP200(非JSON)
+㊙️金陵撸铁汉        B:jar-spider:主页url https://zbr.jllth4.autos/cn/home/web/                      OK:HTTP200(非JSON)
+㊙️金陵撸铁汉        B:jar-spider:防丢url https://fek.3aaw.com/2202/app/hot/332.php?key=194_jllth    OK:HTTP200(非JSON)
+㊙️金陵撸铁汉        B:jar-spider:搜索url https://zbr.jllth4.autos/cn/home/web/index.php/vod/search/ OK:HTTP200(非JSON)
+㊙️金陵撸铁汉        B:jar-spider:分类url https://zbr.jllth4.autos/cn/home/web/index.php/vod/type/id OK:HTTP200(非JSON)
+㊙️路漫漫          B:jar-spider:发布地址 https://i.qg50.com/                                        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️路漫漫          B:jar-spider:嗅探词 https://v6-web.toutiaovod.com#/video/#index.m3u8#.m3u8#.mp HTTP403
+㊙️路漫漫          B:jar-spider:主页url https://www.lmm97.com                                      FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️麦田           B:jar-spider:分类url http://172.247.227.203:25321/mtys.php/v6/video?pg=         HTTP502
+㊙️麦田           B:jar-spider:链接  http://172.247.227.203:25321/mtys.php/v6/video_detail?id=+ HTTP502
+㊙️麦田           B:jar-spider:搜索url http://172.247.31.147:25321/mtys.php/v6/search?pg=         HTTP502
+㊙️麦田           B:jar-spider:搜索链接 http://172.247.31.147:25321/mtys.php/v6/video_detail?id=+v HTTP502
+㊙️咪咪女孩         B:jar-spider:主页url https://mimigirl.44499901.xyz/                             FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️咪咪女孩         B:jar-spider:分类url https://mimigirl.44499901.xyz/index.php/vod/type/id/       FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️PandaAV      B:jar-spider:防丢url https://fuliwz.neocities.org/panda/                        HTTP404
+㊙️PandaAV      B:jar-spider:主页url https://www.panda9278.sbs/                                 FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️91速播         B:jar-spider:主页url https://wwww.cqifei.my/                                    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️91速播         B:jar-spider:分类url https://wwww.cqifei.my/index.php/vod/type/id/              FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️69超级影院       B:jar-spider:主页url https://www.69bag25.com                                    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️69超级影院       B:jar-spider:分类url https://www.69bag25.com/search/                            FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️404xsvc      B:jar-spider:主页url https://xn--08303-404xavcom-2h61a0814fire.4042516.icu      OK:HTTP200(非JSON)
+㊙️404xsvc      B:jar-spider:分类url https://xn--08303-404xavcom-2h61a0814fire.4042516.icu/type OK:HTTP200(非JSON)
+㊙️404xsvc      B:jar-spider:搜索url https://xn--08303-404xavcom-2h61a0814fire.4042516.icu/sear OK:HTTP200(非JSON)
+㊙️淫妻录          B:jar-spider:主页url https://sjsfsjsf.ntrqizi5.xyz/%E6%8C%81%E4%B9%8B%E4%BB%A5% OK:HTTP200(非JSON)
+㊙️淫妻录          B:jar-spider:分类url https://sjsfsjsf.ntrqizi5.xyz/vodtype/                     OK:HTTP200(非JSON)
+魔法少女           B:jar-spider:分类url https://618970.xyz/index.php/vod/type/id/                  HTTP500
+魔法少女           B:jar-spider:搜索url https://618970.xyz/index.php/vod/type/id/2/wd/             OK:HTTP200(非JSON)
+魔法少女1          B:jar-spider:分类url https://6181006.xyz/index.php/vod/type/id/                 HTTP500
+魔法少女1          B:jar-spider:播放链接 https://6181006.xyz/html/abou.html?url=&&                  HTTP404
+魔法少女1          B:jar-spider:搜索url https://6181006.xyz/index.php/vod/type/id/                 HTTP500
+魔法少女2          B:jar-spider:分类url https://6180130.xyz/index.php/vod/type/id/                 HTTP500
+魔法少女2          B:jar-spider:搜索url https://6180130.xyz/index.php/vod/type/id/                 HTTP500
+花都影视🔞          B:jar-spider:分类url https://cn.huaduys.org/;;!                                 HTTP403
+游击队            B:jar-spider:分类url https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/typ OK:HTTP200(非JSON)
+㊙️四虎新网         B:jar-spider:主页url https://www.sihuhu.xyz/                                    FAIL:URLError:<urlopen error _ssl.c:1012: The handshake operation timed ou
+㊙️四虎新网         B:jar-spider:搜索url https://www.sihuhu.xyz/vod/search/page/                    OK:HTTP200(非JSON)
+㊙️四虎新网         B:jar-spider:分类url https://www.sihuhu.xyz/vod/type/id/                        OK:HTTP200(非JSON)
+㊙️┃农夫┃少妇       B:jar-spider:分类url https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️线上看女优        B:jar-spider:主页url https://tv-skyairav.cc/cn/                                 FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️线上看女优        B:jar-spider:分类url https://tv-skyairav.cc/cn/actor?id=                        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️AV帝国         B:jar-spider:主页url https://www.avdg.xyz/                                      FAIL:URLError:<urlopen error [SSL: RECORD_LAYER_FAILURE] record layer fail
+㊙️AV帝国         B:jar-spider:链接  https://www.avdg.xyz/vodplay/+href="/voddetail/&&.html"+-1 FAIL:URLError:<urlopen error [SSL: RECORD_LAYER_FAILURE] record layer fail
+㊙️AV帝国         B:jar-spider:搜索url https://www.avdg.xyz/vodsearch/                            FAIL:URLError:<urlopen error [SSL: RECORD_LAYER_FAILURE] record layer fail
+㊙️AV帝国         B:jar-spider:分类url https://www.avdg.xyz/vodtype/                              FAIL:URLError:<urlopen error [SSL: RECORD_LAYER_FAILURE] record layer fail
+㊙️|Free        B:jar-spider:主页url https://www.camversity.com                                 OK:HTTP200(非JSON)
+㊙️|Free        B:jar-spider:分类url https://www.camversity.com/                                OK:HTTP200(非JSON)
+㊙️jav          B:jar-spider:主页url https://javday.app/                                        FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️jav          B:jar-spider:分类url https://javday.app/fiter/by/                               FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+㊙️jav          B:jar-spider:搜索url https://javday.app/search/page/                            FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+JAVSB          B:jar-spider:主页url https://jav.sb/                                            FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+JAVSB          B:jar-spider:分类url https://jav.sb/javtype/                                    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+比卡             B:jar-spider:主页url https://pika.bikaq.cc/                                     FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+比卡             B:jar-spider:搜索url https://pika.bikaq.cc/vodsearch/                           FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+比卡             B:jar-spider:分类url https://pika.bikaq.cc/vodtype/                             FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+一根逼毛           B:jar-spider:主页url https://crvcd61.mom/                                       FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+一根逼毛           B:jar-spider:搜索url https://crvcd61.mom/vod/search/page/                       FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+一根逼毛           B:jar-spider:分类url https://crvcd61.mom/vodtype/                               FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+NOWAV          B:jar-spider:主页url https://nowav.tv/                                          FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+NOWAV          B:jar-spider:分类url https://nowav.tv/tag/                                      FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+肉视频            B:jar-spider     NO-URL-IN-EXT:/home/daixiao/Data/MultiMedia/Tvbox/TV-BOX/纯福利/./lib/肉视频.json CHECK
+insta直播        B:jar-spider:分类url https://zh.18insta.com/api/front/models?primaryTag=girls&s OK
+KISSAV         B:jar-spider:主页url https://www.kissavtv.com                                   FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+KISSAV         B:jar-spider:搜索url https://www.kissavtv.com/search/page/                      FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+KISSAV         B:jar-spider:分类url https://www.kissavtv.com/index/getstylemvs/id/             FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+222cou         B:jar-spider:主页url http://224cuo.com/                                         OK:HTTP200(非JSON)
+222cou         B:jar-spider:分类url http://224cuo.com/                                         OK:HTTP200(非JSON)
+榨汁姐            B:jar-spider:主页url https://u1v2w3x4.zhazhijie66.buzz/                         OK:HTTP200(非JSON)
+榨汁姐            B:jar-spider:分类url https://u1v2w3x4.zhazhijie66.buzz/vodtype/                 OK:HTTP200(非JSON)
+榨汁姐            B:jar-spider:搜索url https://u1v2w3x4.zhazhijie66.buzz/vodsearch/-------------. OK:HTTP200(非JSON)
+🍁辣味视频🍁         B:jar-spider:分类url https://xsese.com/;;!                                      HTTP404
+野鸡🐔TV          B:jar-spider:主页url https://wap.yejiav2.cc/yj/                                 OK:HTTP200(非JSON)
+野鸡🐔TV          B:jar-spider:分类url https://4g.yejiav16.cc/yj/index.php/vod/type/id/           OK:HTTP200(非JSON)
+🔞JAV6K         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞JAVFFM        B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞javtsunami    B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞色花堂           B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞苹果av          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞18AV          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞170av         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞300分类         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞444咖啡         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞AirAV         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞HOHOJ         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞KANAV         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞MOTV          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞OWOAV         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞ppp           B:jar-spider:分类url https://ppp.porn/categories/                               FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞pronlulu      B:jar-spider:分类url https://www.pornlulu.com/cat/                              FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞porn87        B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞pornhub       B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞PornLuLu      B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Qinav         B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Sexnguon      A:http-api       http://api.sexnguon.com/api.php/provide/vod/?ac=detail&t=1 HTTP502
+🔞xHamster      B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞Xvideos       B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞18JAV(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞HOHOJ(XYQHiker) B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞伊人            B:jar-spider:分类url https://yiren96.cc/index.php/vod/type/id/                  OK:HTTP200(非JSON)
+🔞癢癢            B:jar-spider:分类url https://guochan.yangyangtv13.top/index.php/vod/show/id/    FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞黄AV           A:http-api       https://www.pgxdy.com/api/xml.php?ac=detail&t=1&pg=1       FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞嗨片            B:jar-spider     NO-EXT                                                     CHECK
+🔞看AV           B:jar-spider:分类url https://kanav.info/index.php/vod/type/id/                  FAIL:URLError:<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur
+🔞熊猫视频          B:jar-spider     NO-EXT                                                     CHECK
+🔞女优色库          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞日日撸           B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞台湾kiss        B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞正妹AV          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞亚色影库          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞朱古力           B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞杏吧视频          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞丽丽AV          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞黄色仓库123✈️🔗    B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞黄色仓库啦✈️🔗      B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞紫色成人          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞酷爱成人网✈️       B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+🔞鲨鱼av          B:jar-spider(ext-url) https://ghfast.top/https://raw.githubusercontent.com/xwyjc OK
+--------------------------------------------------------------------------------------------------------------
+总计 259 项 | 有效(OK类) 147 | 失效/异常 88 | 仅文件检查 24

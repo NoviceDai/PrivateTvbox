@@ -19,7 +19,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },  
         {
-            "name": "Github-Daixiao",
+            "name": "Github-iptv-latest",
             "type": 0,
             "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/iptv_channels_latest.m3u",
             "playerType": 1,

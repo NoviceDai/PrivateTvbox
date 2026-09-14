@@ -184,7 +184,6 @@ https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港频道",凤凰中文
 https://php.doube.eu.org/fengshows.php?pid=2
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 http://223.95.198.3:8000/hls/20/index.m3u8
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
@@ -195,7 +194,6 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
 https://php.doube.eu.org/fengshows.php?pid=1
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -206,9 +204,6 @@ https://php.doube.eu.org/fengshows.php?pid=3
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="香港频道",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海频道",五星体育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
@@ -526,27 +521,18 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港台",翡翠台
 http://cdn6.163189.xyz/163189/fct
-http://r.jdshipin.com/qClQf
-http://r.jdshipin.com/qrfbg
-http://r.jdshipin.com/62WM7
-http://r.jdshipin.com/n90gt
-http://r.jdshipin.com/GeWKr
 
 #EXTINF:-1 tvg-name="翡翠台 4K" tvg-logo="https://live.fanmingming.cn/tv/翡翠台 4K.png" group-title="港台",翡翠台 4K
 https://o11.163189.xyz/stream/tvb/fct4k/
 
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="港台",明珠台
-http://iptv.4666888.xyz/iptv2A.php?id=29
+http://cdn6.163189.xyz/163189/mzt
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="港台",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
-http://r.jdshipin.com/Nr5jq
-http://r.jdshipin.com/ndGgS
 
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="港台",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
-http://r.jdshipin.com/sXuuD
-http://r.jdshipin.com/Voac4
 
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="港台",华视
 http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
@@ -562,7 +548,6 @@ https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f
 
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
-http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/娱乐新闻台.png" group-title="港台",娱乐新闻台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
@@ -572,16 +557,12 @@ https://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文台.png" group-title="港台",凤凰中文台
 https://cdn6.163189.xyz/163189/fhzw
-http://r.jdshipin.com/cCCzW
 
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台.png" group-title="港台",凤凰资讯台
 https://cdn6.163189.xyz/163189/fhzx
-http://r.jdshipin.com/0Rp07
 
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港台.png" group-title="港台",凤凰香港台
 https://cdn6.163189.xyz/163189/fhhk
-http://r.jdshipin.com/yDoTN
-http://r.jdshipin.com/NfC0f
 
 #EXTINF:-1 tvg-name="凤凰电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影台.png" group-title="港台",凤凰电影台
 http://www.liyajun.top:7088/udp/239.253.93.81:6247
@@ -590,7 +571,7 @@ http://www.liyajun.top:7088/udp/239.253.93.81:6247
 http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png" group-title="港台",寰宇新闻台
-http://222.128.55.152:9080/live/hy.m3u8
+http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台湾台.png" group-title="港台",寰宇新闻台湾台
 http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
@@ -624,14 +605,12 @@ https://cdn.163189.xyz/163189/rthk32
 
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="港台",ViuTV
 https://cdn.163189.xyz/163189/viu
-http://r.jdshipin.com/vSJvl
 
 #EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.cn/tv/ViuTV6.png" group-title="港台",ViuTV6
 https://cdn10.163189.xyz/stream/163189/viu6/
 
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠台.png" group-title="港台",华丽翡翠台
 https://o11.163189.xyz/stream/live/hlt/
-http://r.jdshipin.com/thuYX
 
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="港台",天映频道
 https://o11.163189.xyz/stream/live/typd/
@@ -647,26 +626,3 @@ https://o11.163189.xyz/stream/live/iqiyi/
 
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.cn/tv/千禧经典台.png" group-title="港台",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="港台",澳视澳门
-http://r.jdshipin.com/n2YZI
-
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="港台",广东珠江
-http://r.jdshipin.com/sE5vO
-
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="港台",广东体育
-http://r.jdshipin.com/LiYdg
-
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="港台",广州综合
-http://r.jdshipin.com/iR6Gq
-http://r.jdshipin.com/snhya
-
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="港台",广州影视
-http://r.jdshipin.com/TcKr2
-http://r.jdshipin.com/sFw4S
-
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市.png" group-title="港台",广州南国都市
-http://r.jdshipin.com/nWaZO
-
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="港台",海峡卫视
-http://r.jdshipin.com/WtYt3
