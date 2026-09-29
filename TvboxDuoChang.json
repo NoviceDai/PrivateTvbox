@@ -5,6 +5,11 @@
             "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/tvboxconfig.json"
         },
         {
+            "name": "Github-Daixiao-18plus",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/18plus/testok.json"
+        },
+
+        {
             "name": "Local Fongmi",
             "url": "http://192.168.8.188/tvbox/zx/FongMi.json"
         },
