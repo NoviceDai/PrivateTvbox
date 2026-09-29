@@ -1,6 +1,9 @@
 {
     "urls": [
- 
+        {
+            "name": "Github-Daixiao",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/tvboxconfig.json"
+        },
         {
             "name": "Local Fongmi",
             "url": "http://192.168.8.188/tvbox/zx/FongMi.json"
@@ -30,8 +33,6 @@
             "url": "https://clun.top/fun.json",
             "name": "clun.top.18+"
         }   
-
-
 
     ]
 }
