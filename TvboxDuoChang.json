@@ -11,11 +11,11 @@
 
         {
             "name": "Local Fongmi",
-            "url": "http://192.168.8.188/tvbox/zx/FongMi.json"
+            "url": "http://192.168.8.188/tvbox/Debug/zx/FongMi.json"
         },
         {
             "name": "Local PG",
-            "url": "http://192.168.8.188/tvbox/pg/jsm.json"
+            "url": "http://192.168.8.188/tvbox/Debug/pg/jsm.json"
         },
  
         {

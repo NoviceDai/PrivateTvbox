@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar",
+  "spider": "./jar/xyq.jar",
   "wallpaper": "https://picsum.photos/1080/",
   "sites": [
        {
@@ -24,7 +24,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./XYQHike/18jav.json",
+      "ext": "./XYQHiker/18jav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./XYQHike/av6k.json",
+      "ext": "./XYQHiker/av6k.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./XYQHike/ggjav.json",
+      "ext": "./XYQHiker/ggjav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -203,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./XYQHike/52av2.json",
+      "ext": "./XYQHiker/52av2.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -213,7 +213,7 @@
       "key": "野鸡🐔TV",
       "name": "野鸡🐔TV",
       "type": 3,
-      "jar": "./XBPQ.jar",
+      "jar": ".jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -245,7 +245,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./XYQHike/porn87.json",
+      "ext": "./XYQHiker/porn87.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
