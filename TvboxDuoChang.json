@@ -8,7 +8,11 @@
             "name": "Github-Daixiao-18plus",
             "url": "https://gh.daix.cn.eu.org/https://github.com/NoviceDai/PrivateTvbox/blob/main/18plus/testok.json"
         },
-
+        {
+            "name": "Github-SpeedTested",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/25175/tvyuan/blob/master/tvbox.json"
+        },
+        
         {
             "name": "Local Fongmi",
             "url": "http://192.168.8.188/tvbox/Debug/zx/FongMi.json"
@@ -37,7 +41,19 @@
         {
             "url": "https://clun.top/fun.json",
             "name": "clun.top.18+"
-        }   
+        },   
+        {
+            "url": "http://192.168.8.188/tvbox/18plus/Debug/tvbox/fun.json",
+            "name": "Local debug"
+        }  ,  
+       {
+            "name": "Github-debug-xiaosha",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/qist/tvbox/blob/master/xiaosa/api.json"
+        },
+           {
+            "name": "Github-debug-fty",
+            "url": "https://gh.daix.cn.eu.org/https://github.com/qist/tvbox/blob/master/fty.json"
+        }
 
     ]
 }
