@@ -2,8 +2,7 @@
 app/
 Debug/
 18plus/Debug
-.codebuddy
-
+ 
 # Python 缓存
 __pycache__/
 *.pyc
