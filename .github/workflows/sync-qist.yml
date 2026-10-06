@@ -1,6 +1,6 @@
 name: Sync plugin files from qist/tvbox
 
-"on":
+on:
   schedule:
     - cron: "0 3 * * *"          # 每天 UTC 03:00 执行一次
   workflow_dispatch: {}          # 允许在 Actions 页面手动触发
