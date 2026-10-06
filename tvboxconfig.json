@@ -17,6 +17,19 @@
       "type": 3,
       "jar": "./plugin/pg.jar",
       "api": "csp_Guazi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "GuaZi",
+      "name": "瓜子zx|在线",
+      "type": 3,
+      "jar": "./plugin/custom_spider.jar",
+      "api": "csp_GuaZi",
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -24,7 +37,7 @@
     },
     {
       "key": "賤賤",
-      "name": "荐片|在线",
+      "name": "荐片zx|在线",
       "type": 3,
       "jar": "./plugin/custom_spider.jar",
       "api": "csp_Jianpian",
@@ -122,7 +135,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播 • APP",
+      "name": "热播xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_AppRJ",
@@ -135,7 +148,7 @@
     },
     {
       "key": "咕噜",
-      "name": "咕噜 • APP",
+      "name": "咕噜xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_Gulu",
@@ -145,7 +158,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "剧圈 • APP",
+      "name": "剧圈xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_App99",
@@ -160,7 +173,7 @@
     },
     {
       "key": "布布",
-      "name": "布布 • APP",
+      "name": "布布xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_YunDuo",
@@ -178,7 +191,7 @@
     },
     {
       "key": "王子",
-      "name": "王子 • APP",
+      "name": "王子xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_AppGet",
@@ -192,7 +205,7 @@
     },
     {
       "key": "橘汁",
-      "name": "橘汁 • APP",
+      "name": "橘汁xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_AppDrama",
@@ -213,7 +226,7 @@
     },
     {
       "key": "1905",
-      "name": "1905 • 影视",
+      "name": "1905xs • 影视",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_Web1905",
@@ -223,7 +236,7 @@
     },
     {
       "key": "独播影视",
-      "name": "独播 • 影视",
+      "name": "独播xs • 影视",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_Duboku",
@@ -233,7 +246,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "金牌 • 影视",
+      "name": "金牌xs • 影视",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_Jpys",
@@ -244,7 +257,7 @@
     },
     {
       "key": "枫叶影视",
-      "name": "枫叶 • 影视",
+      "name": "枫叶xs • 影视",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_FengYe",
@@ -255,7 +268,7 @@
     },
     {
       "key": "华谊",
-      "name": "华谊 • APP",
+      "name": "华谊xs • APP",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_AppDrama",
@@ -276,7 +289,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "骚火 • 影视",
+      "name": "骚火xs • 影视",
       "type": 3,
       "jar": "./plugin/spider.jar",
       "api": "csp_SaoHuo",
@@ -284,6 +297,77 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://shdy5.us"
+    },
+    {
+      "key": "剧圈fty",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+    {
+      "key": "荐片fty",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "视界fty",
+      "name": "🌸茉莉┃多线",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_App99Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
+    },
+    {
+      "key": "糯米fty",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采fty",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长fty",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "jar": "./plugin/fan.txt",
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     }
   ]
 }
