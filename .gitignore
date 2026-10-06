@@ -7,3 +7,6 @@ Debug/
 # Python 缓存
 __pycache__/
 *.pyc
+
+# 本地数据，不入库
+.codebuddy/
