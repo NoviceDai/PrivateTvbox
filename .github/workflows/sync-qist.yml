@@ -1,0 +1,37 @@
+name: Sync plugin files from qist/tvbox
+
+on:
+  schedule:
+    - cron: "0 3 * * *"          # 每天 UTC 03:00 执行一次
+  workflow_dispatch: {}          # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync from qist/tvbox
+        env:
+          SRC_REPO: qist/tvbox
+          SRC_BRANCH: master
+          SRC_DIRS: "jar xiaosa"   # 源目录，靠前的优先；如需优先用 xiaosa 版改为 "xiaosa jar"
+        run: python3 .github/scripts/sync_qist.py
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: sync plugin files from qist/tvbox (${{ github.run_id }})"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "无更新，忽略"
+          fi
