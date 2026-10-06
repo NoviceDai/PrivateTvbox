@@ -2,3 +2,7 @@
 app/
 Debug/
 18plus/Debug
+
+# Python 缓存
+__pycache__/
+*.pyc
