@@ -236,3 +236,11 @@
 - `./plugin/fan.txt` <- https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt  (1411181 B)
   - 旧SHA: `e7375830bcd065b264239e1f0e7da4c99d75abf71e1b6edf50e225ae8b0f4b7e`
   - 新SHA: `da3f3a7afcfcded4d58d9c3a574dfb5cb2ddcc3db4290b7d8b3a7346f9ee8096`
+
+## 2026-11-09 11:16:55
+
+同步自 `qist/tvbox@master`（源目录：jar, xiaosa）
+
+- `./plugin/spider.jar` <- https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar  (1937684 B)
+  - 旧SHA: `5be3d16a600bb1a9cbf74810070ad098d4a43b8b4a0e2b947a7c58156bc45aeb`
+  - 新SHA: `ba0053383764b8ba20dc52df7426a953e7af0087778bf0f85548de62f68feb09`
