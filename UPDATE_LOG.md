@@ -390,3 +390,11 @@
 - `./plugin/fan.txt` <- https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt  (1402019 B)
   - 旧SHA: `8edd72808c0ac2d58fe04df55d9c00af50b839b261b959c28d9a234a8e19ca59`
   - 新SHA: `c446ee157fd7d90d4b8b0036b4598708f66b1fb8cb4469c5593eb39018d6f8b7`
+
+## 2026-11-26 12:12:23
+
+同步自 `qist/tvbox@master`（源目录：jar, xiaosa）
+
+- `./plugin/fan.txt` <- https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt  (1403121 B)
+  - 旧SHA: `c446ee157fd7d90d4b8b0036b4598708f66b1fb8cb4469c5593eb39018d6f8b7`
+  - 新SHA: `feb8fc7c8bfd58e57561b95f17d69896afbe5f5c137c343cf7a246a8286793f9`
